@@ -1,10 +1,8 @@
 ### hey, i'm grace! 👋
 
-i am in my 3rd year at the university of virginia
-with a expected dec 2024 graduation.
+i am in my 3rd year at the university of virginia with a expected dec 2024 graduation. i am majoring in cs + media studies, and minoring in studio art.
 
-i am majoring in cs + media studies,
-and minoring in studio art.
+check out my website @ https://graced0.github.io/
 
 
 <!--
