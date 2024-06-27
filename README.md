@@ -2,6 +2,7 @@
 
 i am in my 3rd year at the university of virginia with a expected dec 2024 graduation. i am majoring in cs + media studies, and minoring in studio art.
 
+check out my website: https://gracedo.vercel.app/
 
 <!--
 **graced0/graced0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
