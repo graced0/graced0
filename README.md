@@ -4,7 +4,7 @@ i am in my 4rd year at the university of virginia graduating this upcoming winte
 
 check out my website: https://gracedo.vercel.app/
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![](https://komarev.com/ghpvc/?username=graced0)
 <!--
 **graced0/graced0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
