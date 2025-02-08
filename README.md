@@ -1,6 +1,6 @@
 ### hey, i'm grace! 👋
 
-i am in my 4rd year at the university of virginia graduating this upcoming winter. i am majoring in cs + media studies, and minoring in studio art.
+i'm currently a software engineer ii at walmart! i recieved my bachelors from the university of virginia in computer science and media studies, with a minor in studio art.
 
 check out my website: https://gracedo.vercel.app/
 
